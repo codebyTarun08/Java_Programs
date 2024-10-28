@@ -1,0 +1,9 @@
+ASCII-American standard code for information exchange
+A=65,B=66,C=67.....Z=90
+a=97,b=98,c=99.....z=122
+0=48,1=49,2=50,3=51,....9=57
+(,),%,&,*,$etc
+
+esc=27
+Enter
+Space
